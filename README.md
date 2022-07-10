@@ -1,5 +1,3 @@
-# node-tesnet
-let's run node tesnet buddy
 #testnet_manuals/sei/gentx/
 ##Generate Gentx for Sei Incentivized testnet
 #Setting up vars
