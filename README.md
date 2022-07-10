@@ -7,6 +7,7 @@
  
  
  
+ 
 
 Di sini Anda harus memasukkan nama moniker Anda (validator) yang akan terlihat di explorer
 
