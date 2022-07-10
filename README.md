@@ -1,8 +1,8 @@
-###testnet_manuals/sei/gentx/
+# testnet_manuals/sei/gentx/
 
-##Generate Gentx for Sei Incentivized testnet
+## Generate Gentx for Sei Incentivized testnet
 
-#Setting up vars
+# Setting up vars
 
 Di sini Anda harus memasukkan nama moniker Anda (validator) yang akan terlihat di explorer
 
