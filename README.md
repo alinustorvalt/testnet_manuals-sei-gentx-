@@ -1,4 +1,4 @@
-#testnet_manuals/sei/gentx/
+###testnet_manuals/sei/gentx/
 
 ##Generate Gentx for Sei Incentivized testnet
 
